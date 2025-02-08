@@ -23,7 +23,7 @@ We use **PySpark and AWS services** to process the large Stack Overflow dataset 
 
 ## 🔹 Project Workflow
 
-![Project Banner](assets/banner.png)
+![Project Banner](Picture1.png)
 
 ### **1️⃣ Data Extraction & Storage**
 - Stack Overflow dataset is extracted from **Stack Exchange archive**.
